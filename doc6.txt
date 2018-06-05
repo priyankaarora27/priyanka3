@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <title>my life</title>
+   <p>my life is <strong>unpredictable</strong></p>
+<h1>my goals</h1>
+   <p> want to do <em>social service</em>i know i can do many things in life</p>
+ <h1> my strengths</h1>
+ <ul>
+<li>positive thinker</li>
+<li>hard worker</li>
+</ul>
+<h1>my weakness</h1>
+<ul>
+<li>sensitive</li>
+<li>emotional</li>
+</ul>
+</body>
+</html>
